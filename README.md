@@ -19,5 +19,5 @@
 
 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="webpack" alt="webpack" width="80" height="80"/>&nbsp;
 </p>
