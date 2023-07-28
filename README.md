@@ -1,9 +1,9 @@
 # Привет, меня зовут Калинкин Артём! 
-# Я начинающий DataScientist. 
----
+# Я, начинающий DataScientist. 
+
 ### :man_technologist: Обо мне:
 Мой путь в IT начался с обучения в НИЯУ МИФИ по специальности "Информационная безопасность". В конце обучения я писал диплом с использованием ML. Это меня увлекло и я продолжил своё развитие в этом направлении. Сейчас я заканчиваю курс "Start ML" от karpov.courses и активно ищу работу)
----
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Языки и библиотеки 
+
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img 
+                                                                                                                                                                                                                                                             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a> <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a> </p>
