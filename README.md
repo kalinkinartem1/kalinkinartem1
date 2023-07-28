@@ -32,10 +32,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40" />
 <img src="https://ru.wikipedia.org/wiki/Matplotlib#/media/Matplotlib_icon.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
-<img src="https://ru.wikipedia.org/wiki/CatBoostLogo.png" title="catboost" alt="catboost" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="sklearn" alt="sklearn" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
-
+https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
