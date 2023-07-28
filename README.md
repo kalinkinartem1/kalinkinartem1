@@ -37,15 +37,19 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
 
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
 
 
 
-<img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-<img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-<img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+
+
+
 <img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 <img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 <img src="" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
