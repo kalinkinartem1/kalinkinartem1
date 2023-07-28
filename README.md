@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+Hi 👋 My name is Калинкин Артём! ================================
 
 <!--
 **kalinkinartem1/kalinkinartem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
