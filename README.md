@@ -9,7 +9,7 @@
 - 🌱 В настоящее время я изучаю Статистику и A/B-тесты
 - ⚡ В настоящее время заканчиваю курс "Start ML" от karpov.courses
 - 😄 Активно ищу работу
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kalinkin_artem-pink?style=flat&logo=Telegram&logoColor=white)](https://t.me/kalinkin_artem) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kalinkin_artem-pink?style=flat&logo=Telegram&logoColor=white)](https://t.me/kalinkin_artem) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=orange)](mailto:kalinkin_artem@inbox.ru)
 
 ---
 ## 💻 Технологии:
@@ -30,13 +30,13 @@
 ## 🛠 Инструменты:
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50"/>&nbsp;
-  <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" title="airflow" alt="airflow" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" height="50" alt="MacOS"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
+  <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" title="airflow" alt="airflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS"/>&nbsp;
 </div>
 
 
