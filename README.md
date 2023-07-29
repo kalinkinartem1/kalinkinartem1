@@ -5,21 +5,11 @@
 Мой путь в IT начался с обучения в НИЯУ МИФИ по специальности "Информационная безопасность". В конце обучения я писал диплом с использованием ML. Это меня увлекло и я продолжил своё развитие в этом направлении. Сейчас я заканчиваю курс "Start ML" от karpov.courses и активно ищу работу)
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
+- 🔭 В настоящее время я работаю над улучшением рекомендательной системы
+- 🌱 В настоящее время я изучаю Статистику и A/B-тесты
+- ⚡ В настоящее время заканчиваю курс "Start ML" от karpov.courses
+- 😄 Активно ищу работу
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kalinkin_artem-pink?style=flat&logo=Telegram&logoColor=white)](https://t.me/kalinkin_artem) [![Mail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
 ---
 ## 💻 Технологии:
@@ -49,17 +39,5 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" height="50" alt="MacOS"/>&nbsp;
 </div>
 
----
-<!-- ### 💻 Пройденные курсы:
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| 
-
---- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kalinkinartem1)
-
-
-
-
-</p>
