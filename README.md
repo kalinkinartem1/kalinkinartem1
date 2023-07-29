@@ -7,7 +7,7 @@
 
 - 🔭 В настоящее время я работаю над улучшением рекомендательной системы
 - 🌱 В настоящее время я изучаю Статистику и A/B-тесты
-- ⚡ В настоящее время заканчиваю курс "Start ML" от karpov.courses
+- :zap: В настоящее время заканчиваю курс "Start ML" от karpov.courses
 - 😄 Активно ищу работу
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kalinkin_artem-pink?style=flat&logo=Telegram&logoColor=white)](https://t.me/kalinkin_artem) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=orange)](mailto:kalinkin_artem@inbox.ru)
 
