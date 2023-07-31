@@ -7,7 +7,7 @@
 
 - 🔭 Работаю над улучшением совей рекомендательной системы
 - 🌱 Изучаю Статистику и A/B-тесты
-- :zap: Заканчиваю курс "Start ML" от karpov.courses
+- :zap:Заканчиваю курс "Start ML" от karpov.courses
 - 😄 Активно ищу работу
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kalinkin_artem-pink?style=flat&logo=Telegram&logoColor=white)](https://t.me/kalinkin_artem) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=orange)](mailto:kalinkin_artem@inbox.ru)
 
